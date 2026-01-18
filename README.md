@@ -2,7 +2,7 @@
 
 A comprehensive IoT solution for automated waste management and environmental monitoring. This system integrates an **ESP32** microcontroller with **Google Cloud Platform (GCP)**, **MongoDB Atlas**, and a **Next.js** dashboard to provide real-time telemetry and control.
 
-![Dashboard Preview](public\dashboard.png)
+![Dashboard Preview](public/dashboard.png)
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ A comprehensive IoT solution for automated waste management and environmental mo
 
 ## 🛠️ System Architecture
 
-![Dashboard Preview](public\architecture.png)
+![Architecture Preview](public/architecture.png)
 
 
 The project follows a 4-layer IoT architecture:
